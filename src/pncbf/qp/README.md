@@ -1,0 +1,2 @@
+1. min_norm_cbf.py: 
+Implements the Quadratic Program (QP) that creates the safety filter mentioned in the paper. This is the core of equation (5) in the paper, which computes the minimally invasive control input that satisfies the CBF constraint. This is what transforms the learned value function into a usable safety filter.
