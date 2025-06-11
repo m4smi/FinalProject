@@ -1,4 +1,4 @@
-This repo is for ECE 228 Final Project (2025) \
+This repo is for ECE 228 Final Project (2025)
 
 The PNCBF paper use a complex setup with JAX/CUDA dependencies and ROS-related packages. 
 
