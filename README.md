@@ -1,3 +1,5 @@
+This repo is for ECE 228 Final Project (2025) \
+
 The PNCBF paper use a complex setup with JAX/CUDA dependencies and ROS-related packages. 
 
 For this project reproducibility, I recommend using a Linux distro and install the exact environment that was used to produce this project via Conda (cbf310_linux.yml).\
